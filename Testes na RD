@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minha Página com RD Station</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background: #f9f9f9;
+    }
+    h1 {
+      color: #333;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-top: 20px;
+      background-color: #0073e6;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bem-vindo à minha página!</h1>
+  <p>Este site usa RD Station para capturar leads.</p>
+
+  <!-- Script da RD Station -->
+  <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/d5b20b5d-16ba-44f6-b779-24a9842bb708-loader.js"></script>
+</body>
+</html>
